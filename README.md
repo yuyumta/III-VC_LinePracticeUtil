@@ -1,5 +1,7 @@
 # III-VC_LinePracticeUtil
-Two asi plugins for GTA III and GTA: Vice City that help practice driving lines. 
+Important: I've more-or-less abandoned this project, as opposed to the SA version, which I've updated several times since its release. There are several problems present in the current version, most notable of which being that the tool ceases to work after you save, or something, I forgot. It's been quite a while. In any case, I'm lazy, and I probably won't fix any of the issues unless I spontaneously develop a desire to run either of the two, or unless someone explicitly asks me to.
+
+Two asi plugins for GTA III and GTA: Vice City that help practice stuff. 
 
 # How to use
 1. Ensure the correct plugin is installed.
